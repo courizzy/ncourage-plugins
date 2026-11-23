@@ -1,5 +1,5 @@
 {
-  "version": "1.12.0",
-  "notes": "New tools bar: Frequency Separation (FS), Dodge & Burn (D&B) and Sharpen.",
-  "url": "https://raw.githubusercontent.com/courizzy/ncourage-plugins/main/shadow-studio/releases/ShadowStudio-1.12.0.ccx"
+  "version": "1.12.1",
+  "notes": "Tools bar fits the panel width evenly.",
+  "url": "https://raw.githubusercontent.com/courizzy/ncourage-plugins/main/shadow-studio/releases/ShadowStudio-1.12.1.ccx"
 }
