@@ -1,5 +1,5 @@
 {
-  "version": "1.13.0",
-  "notes": "Shadows keep the original subject untouched with soft blended edges. Improved prompts.",
-  "url": "https://raw.githubusercontent.com/courizzy/ncourage-plugins/main/shadow-studio/releases/ShadowStudio-1.13.0.ccx"
+  "version": "1.13.1",
+  "notes": "More reliable update checks with a manual download option.",
+  "url": "https://raw.githubusercontent.com/courizzy/ncourage-plugins/main/shadow-studio/releases/ShadowStudio-1.13.1.ccx"
 }
