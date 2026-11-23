@@ -1,5 +1,5 @@
 {
-  "version": "1.13.1",
-  "notes": "More reliable update checks with a manual download option.",
-  "url": "https://raw.githubusercontent.com/courizzy/ncourage-plugins/main/shadow-studio/releases/ShadowStudio-1.13.1.ccx"
+  "version": "1.14.0",
+  "notes": "Smoother and safer: works with any separated subject, clear messages, failed steps undo themselves.",
+  "url": "https://raw.githubusercontent.com/courizzy/ncourage-plugins/main/shadow-studio/releases/ShadowStudio-1.14.0.ccx"
 }
