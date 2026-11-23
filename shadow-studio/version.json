@@ -1,5 +1,5 @@
 {
-  "version": "1.14.1",
-  "notes": "Every action now starts fresh at the top, whatever layer is selected.",
-  "url": "https://raw.githubusercontent.com/courizzy/ncourage-plugins/main/shadow-studio/releases/ShadowStudio-1.14.1.ccx"
+  "version": "1.14.2",
+  "notes": "Frequency Separation ends on Correcting tones with the Mixer Brush ready.",
+  "url": "https://raw.githubusercontent.com/courizzy/ncourage-plugins/main/shadow-studio/releases/ShadowStudio-1.14.2.ccx"
 }
